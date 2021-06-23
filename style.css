@@ -1,6 +1,10 @@
 body{
-    background-image: url(https://raw.githubusercontent.com/ermelsu/AgendamentoCECAPE/main/17929.jp);
+    background-image: url(https://raw.githubusercontent.com/ermelsu/AgendamentoCECAPE/main/17929.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
+}
+div_1{
+            background-color: red;
+            margin-bottom: 20px;
 }
