@@ -3,18 +3,8 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-}
-div_1{
-            background-color: blue;
-}
-#esse-footer {
-    background: red 
-}
-
-esse-footer {
-    background: red 
-}
-
-.esse-footer {
-    background: red 
+    
+ .navbar.custom {
+  width: 50%;  
+  margin: 0 auto;
 }
