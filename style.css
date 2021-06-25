@@ -8,3 +8,10 @@ div_1{
             background-color: red;
             margin-bottom: 20px;
 }
+footer {
+    padding: 60px;
+    text-align: center;
+    background: #1A1851;
+    color: white;
+    font-size: 30px;
+  }
