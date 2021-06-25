@@ -14,7 +14,7 @@ body{
 nav{
     display: flex;
     justify-content: space-around;
-    align-items: rigth;
+    align-items: left;
     min-height: 8vh;
     background-color:#1A1851;
     font-family: 'Poppins', sans-serif;
