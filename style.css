@@ -1,0 +1,45 @@
+body{
+    background-image: url(https://www.analisebioenergetica.com.br/wp-content/uploads/2014/05/blue-light-backgrounds-background-opera-image-graphics.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-shadow: 0px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: left;
+    min-height: 8vh;
+    background-color:#1A1851;
+    font-family: 'Poppins', sans-serif;
+}
+
+.logo {
+    color: #1b1a3a;
+    text-transform: uppercase;
+    letter-spacing:  5px;
+    font: size 20px;
+}
+
+.nav-links{
+    display: flex;
+    justify-content: space-around;
+    width: 30%;
+}
+.nav-links li{
+    list-style: none;
+}
+
+.nav-links a{
+    color: #1b1a3a;
+    text-decoration: none;
+    letter-spacing: 3px;
+    font-weight: bold;
+    font-size: 14px;
+}
