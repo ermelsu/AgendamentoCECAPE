@@ -4,7 +4,7 @@ body{
     background-size: cover;
     background-position: center center;
     
- .navbar.custom {
-  width: 50%;  
+.custom {
+  width: 500%;  
   margin: 0 auto;
 }
